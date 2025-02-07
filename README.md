@@ -1,4 +1,4 @@
-# Cubic
+asdadasd# Cubic
 
 [![](https://i.imgur.com/5tS5i3M.png)](https://cubic.vldr.org/)
 f
