@@ -1,4 +1,4 @@
-asdadasd# Cubic
+sdfsdasdadasd# Cubic
 
 [![](https://i.imgur.com/5tS5i3M.png)](https://cubic.vldr.org/)
 f
@@ -35,7 +35,7 @@ Alternatively, you can play the game by downloading the precompiled binaries for
   * `./cubic`
 - [Android](https://github.com/vldr/Cubic/releases/download/Build/Cubic_Android.zip)
 
-  Download and unzip all files, then install the *Cubic.apk* package:
+  ownload and unzip all files, then install the *Cubic.apk* package:
 
 ## Controls
 
