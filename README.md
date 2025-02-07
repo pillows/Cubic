@@ -1,7 +1,7 @@
 # Cubic
 
 [![](https://i.imgur.com/5tS5i3M.png)](https://cubic.vldr.org/)
-
+f
 ---
 
 A multiplayer WebGL voxel sandbox game written in C++, inspired by the classic version of Minecraft.
